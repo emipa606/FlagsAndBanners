@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Flags and Banners (Continued)</name>
+  	<packageId>Mlie.FlagsAndBanners</packageId>
+	<author>Mlie</author>
+	<url>https://github.com/emipa606/FlagsAndBanners</url>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+	</supportedVersions>
+	<modDependencies />
+	<loadAfter />
+	<description>Update of Sadjuuks mod for RimWorld 1.1
+https://steamcommunity.com/sharedfiles/filedetails/?id=1564928794
+
+[img]https://raw.githubusercontent.com/emipa606/RimWorld-Wrapper/master/Notice.png[/img]
+
+Support-chat:
+https://discord.gg/SuhwVpM
+
+Non-steam version:
+https://github.com/emipa606/FlagsAndBanners
+	
+--- Original Description ---
+This is a Haku 10 request :
+Only the Flags and Banners from UN-Colony mod.
+They need the carpet research.
+
+For complete mod :
+1- UN-Colony : https://steamcommunity.com/sharedfiles/filedetails/?id=2019774245
+2- UN-Furniture : https://steamcommunity.com/sharedfiles/filedetails/?id=2019774854
+  </description>
+</ModMetaData>
