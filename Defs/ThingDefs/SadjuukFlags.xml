@@ -1,10 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-<!-- ============================================================================= -->
-<!-- BASE ALL BANNERS -->
-<!-- ============================================================================= -->
-    <ThingDef Abstract="True" Name="SadjuukBannerBase" ParentName="BuildingBase">
+  <!-- ============================================================================= -->
+  <!-- BASE ALL BANNERS -->
+  <!-- ============================================================================= -->
+  <ThingDef Abstract="True" Name="SadjuukBannerBase" ParentName="BuildingBase">
     <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
     <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
     <constructEffect>ConstructMetal</constructEffect>
@@ -12,9 +11,9 @@
     <altitudeLayer>Blueprint</altitudeLayer>
     <blockWind>false</blockWind>
     <castEdgeShadows>false</castEdgeShadows>
-	<minifiedDef>MinifiedThing</minifiedDef>
-	<thingCategories>
-		<li>BuildingsFurniture</li>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsFurniture</li>
     </thingCategories>
     <designationCategory>Furniture</designationCategory>
     <!--<placeWorkers>
@@ -27,611 +26,556 @@
     </building>
 	<clearBuildingArea>true</clearBuildingArea>-->
     <researchPrerequisites>
-		<li>CarpetMaking</li>
+      <li>CarpetMaking</li>
     </researchPrerequisites>
-	<constructionSkillPrerequisite>6</constructionSkillPrerequisite>
-    </ThingDef>
-	
-<!-- ============================================================================= -->
-<!-- BASE Banner A (High Banners) -->
-<!-- ============================================================================= -->
-    <ThingDef Abstract="True" Name="SadjuukBannerBaseA" ParentName="SadjuukBannerBase">
+    <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
+  </ThingDef>
+  <!-- ============================================================================= -->
+  <!-- BASE Banner A (High Banners) -->
+  <!-- ============================================================================= -->
+  <ThingDef Abstract="True" Name="SadjuukBannerBaseA" ParentName="SadjuukBannerBase">
     <description>A high Banner, symbol of your ambitions and sovereignty.</description>
-	<designatorDropdown>SadjuukBannerBaseA</designatorDropdown>
+    <designatorDropdown>SadjuukBannerBaseA</designatorDropdown>
     <thingClass>Building</thingClass>
     <costList>
-		<Steel>55</Steel>
-		<Cloth>15</Cloth>
+      <Steel>55</Steel>
+      <Cloth>15</Cloth>
     </costList>
     <statBases>
-		<MaxHitPoints>150</MaxHitPoints>
-		<WorkToBuild>600</WorkToBuild>
-		<Flammability>0.2</Flammability>
-		<!--<MarketValue>38</MarketValue>-->
-		<Mass>17.5</Mass>
-		<Beauty>25</Beauty>
+      <MaxHitPoints>150</MaxHitPoints>
+      <WorkToBuild>600</WorkToBuild>
+      <Flammability>0.2</Flammability>
+      <!--<MarketValue>38</MarketValue>-->
+      <Mass>17.5</Mass>
+      <Beauty>25</Beauty>
     </statBases>
     <size>(1,1)</size>
     <rotatable>false</rotatable>
-    </ThingDef>
-	
-	<!-- Banner AA -->
-    <ThingDef ParentName="SadjuukBannerBaseA">
+  </ThingDef>
+  <!-- Banner AA -->
+  <ThingDef ParentName="SadjuukBannerBaseA">
     <defName>SadjuukHighBannerAA</defName>
     <label>UNSC Banner</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAA</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAA</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAAIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner AB -->
-    <ThingDef ParentName="SadjuukBannerBaseA">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAAIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner AB -->
+  <ThingDef ParentName="SadjuukBannerBaseA">
     <defName>SadjuukHighBannerAB</defName>
     <label>Gallia Banner</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAB</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAB</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerABIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner AR -->
-    <ThingDef ParentName="SadjuukBannerBaseA">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerABIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner AR -->
+  <ThingDef ParentName="SadjuukBannerBaseA">
     <defName>SadjuukHighBannerAR</defName>
     <label>Lys Banner</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAR</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAR</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerARIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner AC -->
-    <ThingDef ParentName="SadjuukBannerBaseA">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerARIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner AC -->
+  <ThingDef ParentName="SadjuukBannerBaseA">
     <defName>SadjuukHighBannerAC</defName>
     <label>Imperial Banner</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAC</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAC</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerACIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner AD -->
-    <ThingDef ParentName="SadjuukBannerBaseA">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerACIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner AD -->
+  <ThingDef ParentName="SadjuukBannerBaseA">
     <defName>SadjuukHighBannerAD</defName>
     <label>Diktat Banner</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAD</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAD</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerADIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner AE -->
-    <ThingDef ParentName="SadjuukBannerBaseA">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerADIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner AE -->
+  <ThingDef ParentName="SadjuukBannerBaseA">
     <defName>SadjuukHighBannerAE</defName>
     <label>Bolshvev Banner</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAE</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAE</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAEIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner AF -->
-    <ThingDef ParentName="SadjuukBannerBaseA">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAEIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner AF -->
+  <ThingDef ParentName="SadjuukBannerBaseA">
     <defName>SadjuukHighBannerAF</defName>
     <label>NOD Banner</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAF</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAF</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAFIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner AO -->
-    <ThingDef ParentName="SadjuukBannerBaseA">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAFIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner AO -->
+  <ThingDef ParentName="SadjuukBannerBaseA">
     <defName>SadjuukHighBannerAO</defName>
     <label>GDI Banner</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAO</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAO</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAOIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner AM -->
-    <ThingDef ParentName="SadjuukBannerBaseA">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAOIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner AM -->
+  <ThingDef ParentName="SadjuukBannerBaseA">
     <defName>SadjuukHighBannerAM</defName>
     <label>Templar Banner</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAM</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAM</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAMIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner AS -->
-    <ThingDef ParentName="SadjuukBannerBaseA">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAMIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner AS -->
+  <ThingDef ParentName="SadjuukBannerBaseA">
     <defName>SadjuukHighBannerAS</defName>
     <label>Cross Banner</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAS</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAS</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerASIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner AN -->
-    <ThingDef ParentName="SadjuukBannerBaseA">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerASIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner AN -->
+  <ThingDef ParentName="SadjuukBannerBaseA">
     <defName>SadjuukHighBannerAN</defName>
     <label>Lech Banner</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAN</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAN</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerANIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner AP -->
-    <ThingDef ParentName="SadjuukBannerBaseA">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerANIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner AP -->
+  <ThingDef ParentName="SadjuukBannerBaseA">
     <defName>SadjuukHighBannerAP</defName>
     <label>RUS Banner</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAP</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAP</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAPIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner AQ -->
-    <ThingDef ParentName="SadjuukBannerBaseA">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAPIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner AQ -->
+  <ThingDef ParentName="SadjuukBannerBaseA">
     <defName>SadjuukHighBannerAQ</defName>
     <label>States Banner</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAQ</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAQ</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAQIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner AG -->
-    <ThingDef ParentName="SadjuukBannerBaseA">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAQIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner AG -->
+  <ThingDef ParentName="SadjuukBannerBaseA">
     <defName>SadjuukHighBannerAG</defName>
     <label>Red Banner</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAG</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAG</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAGIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner AH -->
-    <ThingDef ParentName="SadjuukBannerBaseA">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAGIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner AH -->
+  <ThingDef ParentName="SadjuukBannerBaseA">
     <defName>SadjuukHighBannerAH</defName>
     <label>Royal Blue Banner</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAH</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAH</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAHIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner AI -->
-    <ThingDef ParentName="SadjuukBannerBaseA">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAHIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner AI -->
+  <ThingDef ParentName="SadjuukBannerBaseA">
     <defName>SadjuukHighBannerAI</defName>
     <label>Sky Blue Banner</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAI</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAI</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAIIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner AJ -->
-    <ThingDef ParentName="SadjuukBannerBaseA">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAIIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner AJ -->
+  <ThingDef ParentName="SadjuukBannerBaseA">
     <defName>SadjuukHighBannerAJ</defName>
     <label>Yellow Banner</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAJ</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAJ</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAJIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner AK -->
-    <ThingDef ParentName="SadjuukBannerBaseA">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAJIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner AK -->
+  <ThingDef ParentName="SadjuukBannerBaseA">
     <defName>SadjuukHighBannerAK</defName>
     <label>Black Banner</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAK</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAK</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAKIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner AL -->
-    <ThingDef ParentName="SadjuukBannerBaseA">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAKIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner AL -->
+  <ThingDef ParentName="SadjuukBannerBaseA">
     <defName>SadjuukHighBannerAL</defName>
     <label>White Banner</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAL</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAL</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerALIcon</uiIconPath>
-    </ThingDef>
-	
-<!-- ============================================================================= -->
-<!-- BASE Banner B (High Flags) -->
-<!-- ============================================================================= -->
-    <ThingDef Abstract="True" Name="SadjuukBannerBaseB" ParentName="SadjuukBannerBase">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerALIcon</uiIconPath>
+  </ThingDef>
+  <!-- ============================================================================= -->
+  <!-- BASE Banner B (High Flags) -->
+  <!-- ============================================================================= -->
+  <ThingDef Abstract="True" Name="SadjuukBannerBaseB" ParentName="SadjuukBannerBase">
     <description>A High Flag, marking your territory.</description>
-	<designatorDropdown>SadjuukBannerBaseB</designatorDropdown>
+    <designatorDropdown>SadjuukBannerBaseB</designatorDropdown>
     <thingClass>Building</thingClass>
     <costList>
-		<Steel>55</Steel>
-		<Cloth>5</Cloth>
+      <Steel>55</Steel>
+      <Cloth>5</Cloth>
     </costList>
     <statBases>
-		<MaxHitPoints>150</MaxHitPoints>
-		<WorkToBuild>600</WorkToBuild>
-		<Flammability>0.2</Flammability>
-		<!--<MarketValue>23</MarketValue>-->
-		<Mass>7.5</Mass>
-		<Beauty>25</Beauty>
+      <MaxHitPoints>150</MaxHitPoints>
+      <WorkToBuild>600</WorkToBuild>
+      <Flammability>0.2</Flammability>
+      <!--<MarketValue>23</MarketValue>-->
+      <Mass>7.5</Mass>
+      <Beauty>25</Beauty>
     </statBases>
     <size>(1,1)</size>
     <rotatable>false</rotatable>
-    </ThingDef>
-	
-	<!-- Banner BA -->
-    <ThingDef ParentName="SadjuukBannerBaseB">
+  </ThingDef>
+  <!-- Banner BA -->
+  <ThingDef ParentName="SadjuukBannerBaseB">
     <defName>SadjuukHighBannerBA</defName>
     <label>UNSC Flag</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBA</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBA</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBAIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner BB -->
-    <ThingDef ParentName="SadjuukBannerBaseB">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBAIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner BB -->
+  <ThingDef ParentName="SadjuukBannerBaseB">
     <defName>SadjuukHighBannerBB</defName>
     <label>Gallia Flag</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBB</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBB</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBBIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner BR -->
-    <ThingDef ParentName="SadjuukBannerBaseB">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBBIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner BR -->
+  <ThingDef ParentName="SadjuukBannerBaseB">
     <defName>SadjuukHighBannerBR</defName>
     <label>Lys Flag</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBR</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBR</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBRIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner BC -->
-    <ThingDef ParentName="SadjuukBannerBaseB">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBRIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner BC -->
+  <ThingDef ParentName="SadjuukBannerBaseB">
     <defName>SadjuukHighBannerBC</defName>
     <label>Imperial Flag</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBC</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBC</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBCIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner BD -->
-    <ThingDef ParentName="SadjuukBannerBaseB">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBCIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner BD -->
+  <ThingDef ParentName="SadjuukBannerBaseB">
     <defName>SadjuukHighBannerBD</defName>
     <label>Diktat Flag</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBD</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBD</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBDIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner BE -->
-    <ThingDef ParentName="SadjuukBannerBaseB">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBDIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner BE -->
+  <ThingDef ParentName="SadjuukBannerBaseB">
     <defName>SadjuukHighBannerBE</defName>
     <label>Bolshvev Flag</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBE</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBE</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBEIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner BF -->
-    <ThingDef ParentName="SadjuukBannerBaseB">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBEIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner BF -->
+  <ThingDef ParentName="SadjuukBannerBaseB">
     <defName>SadjuukHighBannerBF</defName>
     <label>NOD Flag</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBF</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBF</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBFIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner BO -->
-    <ThingDef ParentName="SadjuukBannerBaseB">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBFIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner BO -->
+  <ThingDef ParentName="SadjuukBannerBaseB">
     <defName>SadjuukHighBannerBO</defName>
     <label>GDI Flag</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBO</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBO</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBOIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner BM -->
-    <ThingDef ParentName="SadjuukBannerBaseB">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBOIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner BM -->
+  <ThingDef ParentName="SadjuukBannerBaseB">
     <defName>SadjuukHighBannerBM</defName>
     <label>Templar Flag</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBM</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBM</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBMIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner BS -->
-    <ThingDef ParentName="SadjuukBannerBaseB">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBMIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner BS -->
+  <ThingDef ParentName="SadjuukBannerBaseB">
     <defName>SadjuukHighBannerBS</defName>
     <label>Cross Flag</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBS</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBS</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBSIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner BN -->
-    <ThingDef ParentName="SadjuukBannerBaseB">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBSIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner BN -->
+  <ThingDef ParentName="SadjuukBannerBaseB">
     <defName>SadjuukHighBannerBN</defName>
     <label>Lech Flag</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBN</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBN</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBNIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner BP -->
-    <ThingDef ParentName="SadjuukBannerBaseB">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBNIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner BP -->
+  <ThingDef ParentName="SadjuukBannerBaseB">
     <defName>SadjuukHighBannerBP</defName>
     <label>RUS Flag</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBP</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBP</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBPIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner BQ -->
-    <ThingDef ParentName="SadjuukBannerBaseB">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBPIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner BQ -->
+  <ThingDef ParentName="SadjuukBannerBaseB">
     <defName>SadjuukHighBannerBQ</defName>
     <label>States Flag</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBQ</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBQ</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBQIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner BG -->
-    <ThingDef ParentName="SadjuukBannerBaseB">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBQIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner BG -->
+  <ThingDef ParentName="SadjuukBannerBaseB">
     <defName>SadjuukHighBannerBG</defName>
     <label>Red Flag</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBG</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBG</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBGIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner BH -->
-    <ThingDef ParentName="SadjuukBannerBaseB">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBGIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner BH -->
+  <ThingDef ParentName="SadjuukBannerBaseB">
     <defName>SadjuukHighBannerBH</defName>
     <label>Royal Blue Flag</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBH</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBH</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBHIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner BI -->
-    <ThingDef ParentName="SadjuukBannerBaseB">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBHIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner BI -->
+  <ThingDef ParentName="SadjuukBannerBaseB">
     <defName>SadjuukHighBannerBI</defName>
     <label>Sky Blue Flag</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBI</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBI</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBIIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner BJ -->
-    <ThingDef ParentName="SadjuukBannerBaseB">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBIIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner BJ -->
+  <ThingDef ParentName="SadjuukBannerBaseB">
     <defName>SadjuukHighBannerBJ</defName>
     <label>Yellow Flag</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBJ</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBJ</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBJIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner BK -->
-    <ThingDef ParentName="SadjuukBannerBaseB">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBJIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner BK -->
+  <ThingDef ParentName="SadjuukBannerBaseB">
     <defName>SadjuukHighBannerBK</defName>
     <label>Black Flag</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBK</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBK</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBKIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner BL -->
-    <ThingDef ParentName="SadjuukBannerBaseB">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBKIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner BL -->
+  <ThingDef ParentName="SadjuukBannerBaseB">
     <defName>SadjuukHighBannerBL</defName>
     <label>White Flag</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBL</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBL</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBLIcon</uiIconPath>
-    </ThingDef>
-	
-<!-- ============================================================================= -->
-<!-- BASE Banner C (Warning Sign) -->
-<!-- ============================================================================= -->
-    <ThingDef Abstract="True" Name="SadjuukBannerBaseC" ParentName="SadjuukBannerBase">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBLIcon</uiIconPath>
+  </ThingDef>
+  <!-- ============================================================================= -->
+  <!-- BASE Banner C (Warning Sign) -->
+  <!-- ============================================================================= -->
+  <ThingDef Abstract="True" Name="SadjuukBannerBaseC" ParentName="SadjuukBannerBase">
     <description>A Warning Sign, warning of a hazard or restricted area.</description>
-	<designatorDropdown>SadjuukBannerBaseC</designatorDropdown>
+    <designatorDropdown>SadjuukBannerBaseC</designatorDropdown>
     <thingClass>Building</thingClass>
     <costList>
-		<Steel>55</Steel>
+      <Steel>55</Steel>
     </costList>
     <statBases>
-		<MaxHitPoints>150</MaxHitPoints>
-		<WorkToBuild>600</WorkToBuild>
-		<Flammability>0.2</Flammability>
-		<!--<MarketValue>24</MarketValue>-->
-		<Mass>6.3</Mass>
+      <MaxHitPoints>150</MaxHitPoints>
+      <WorkToBuild>600</WorkToBuild>
+      <Flammability>0.2</Flammability>
+      <!--<MarketValue>24</MarketValue>-->
+      <Mass>6.3</Mass>
     </statBases>
     <size>(1,1)</size>
     <rotatable>false</rotatable>
-    </ThingDef>
-	
-	<!-- Banner CA -->
-    <ThingDef ParentName="SadjuukBannerBaseC">
+  </ThingDef>
+  <!-- Banner CA -->
+  <ThingDef ParentName="SadjuukBannerBaseC">
     <defName>SadjuukHighBannerCA</defName>
     <label>Fire Danger Sign</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerC/SadjuukHighBannerCA</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerC/SadjuukHighBannerCA</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerC/SadjuukHighBannerCAIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner CB -->
-    <ThingDef ParentName="SadjuukBannerBaseC">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerC/SadjuukHighBannerCAIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner CB -->
+  <ThingDef ParentName="SadjuukBannerBaseC">
     <defName>SadjuukHighBannerCB</defName>
     <label>Death Danger Sign</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerC/SadjuukHighBannerCB</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerC/SadjuukHighBannerCB</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerC/SadjuukHighBannerCBIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner CC -->
-    <ThingDef ParentName="SadjuukBannerBaseC">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerC/SadjuukHighBannerCBIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner CC -->
+  <ThingDef ParentName="SadjuukBannerBaseC">
     <defName>SadjuukHighBannerCC</defName>
     <label>Radiation Warning Sign</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerC/SadjuukHighBannerCC</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerC/SadjuukHighBannerCC</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerC/SadjuukHighBannerCCIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner CD -->
-    <ThingDef ParentName="SadjuukBannerBaseC">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerC/SadjuukHighBannerCCIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner CD -->
+  <ThingDef ParentName="SadjuukBannerBaseC">
     <defName>SadjuukHighBannerCD</defName>
     <label>Biohazard Sign</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerC/SadjuukHighBannerCD</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerC/SadjuukHighBannerCD</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerC/SadjuukHighBannerCDIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner CE -->
-    <ThingDef ParentName="SadjuukBannerBaseC">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerC/SadjuukHighBannerCDIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner CE -->
+  <ThingDef ParentName="SadjuukBannerBaseC">
     <defName>SadjuukHighBannerCE</defName>
     <label>Electric Danger Sign</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerC/SadjuukHighBannerCE</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerC/SadjuukHighBannerCE</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerC/SadjuukHighBannerCEIcon</uiIconPath>
-    </ThingDef>
-	
-	<!-- Banner CF -->
-    <ThingDef ParentName="SadjuukBannerBaseC">
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerC/SadjuukHighBannerCEIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner CF -->
+  <ThingDef ParentName="SadjuukBannerBaseC">
     <defName>SadjuukHighBannerCF</defName>
     <label>Forklift Warning Sign</label>
     <graphicData>
-		<texPath>SadjuukUN-Furniture/SadjuukHighBannerC/SadjuukHighBannerCF</texPath>
-		<graphicClass>Graphic_Single</graphicClass>
-		<drawSize>(5,5)</drawSize>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerC/SadjuukHighBannerCF</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
     </graphicData>
-	<uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerC/SadjuukHighBannerCFIcon</uiIconPath>
-    </ThingDef>
-
-
-	
-	
-	
-	
-
-	
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerC/SadjuukHighBannerCFIcon</uiIconPath>
+  </ThingDef>
 </Defs>

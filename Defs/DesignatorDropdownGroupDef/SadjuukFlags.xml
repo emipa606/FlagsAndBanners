@@ -1,19 +1,15 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-<!-- Banner A (High Banners) -->
-	<DesignatorDropdownGroupDef>
-		<defName>SadjuukBannerBaseA</defName>
-	</DesignatorDropdownGroupDef>
-
-<!-- Banner B (High Flags) -->
-	<DesignatorDropdownGroupDef>
-		<defName>SadjuukBannerBaseB</defName>
-	</DesignatorDropdownGroupDef>
-
-<!-- Banner C (Warning Sign) -->
-	<DesignatorDropdownGroupDef>
-		<defName>SadjuukBannerBaseC</defName>
-	</DesignatorDropdownGroupDef>
-  
+  <!-- Banner A (High Banners) -->
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukBannerBaseA</defName>
+  </DesignatorDropdownGroupDef>
+  <!-- Banner B (High Flags) -->
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukBannerBaseB</defName>
+  </DesignatorDropdownGroupDef>
+  <!-- Banner C (Warning Sign) -->
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukBannerBaseC</defName>
+  </DesignatorDropdownGroupDef>
 </Defs>

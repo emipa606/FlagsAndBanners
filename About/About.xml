@@ -1,16 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Flags and Banners (Continued)</name>
-  	<packageId>Mlie.FlagsAndBanners</packageId>
-	<author>Mlie</author>
-	<url>https://github.com/emipa606/FlagsAndBanners</url>
-	<supportedVersions>
-		<li>1.0</li>
-		<li>1.1</li>
-	</supportedVersions>
-	<modDependencies />
-	<loadAfter />
-	<description>Update of Sadjuuks mod for RimWorld 1.1
+  <packageId>Mlie.FlagsAndBanners</packageId>
+  <author>Mlie</author>
+  <url>https://github.com/emipa606/FlagsAndBanners</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>Update of Sadjuuks mod for RimWorld 1.1
 https://steamcommunity.com/sharedfiles/filedetails/?id=1564928794
 
 [img]https://raw.githubusercontent.com/emipa606/RimWorld-Wrapper/master/Notice.png[/img]
