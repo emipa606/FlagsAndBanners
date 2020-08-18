@@ -141,6 +141,16 @@
   <SadjuukHighBannerAG_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAG_Frame.description>
 
 
+  <!-- Banner AT -->
+
+  <SadjuukHighBannerAT.label>Green Banner</SadjuukHighBannerAT.label>
+  <SadjuukHighBannerAT.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAT.description>
+  <SadjuukHighBannerAT_Blueprint.label>Green Banner (blueprint)</SadjuukHighBannerAT_Blueprint.label>
+  <SadjuukHighBannerAT_Blueprint_Install.label>Green Banner (blueprint)</SadjuukHighBannerAT_Blueprint_Install.label>
+  <SadjuukHighBannerAT_Frame.label>Green Banner (building)</SadjuukHighBannerAT_Frame.label>
+  <SadjuukHighBannerAT_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAT_Frame.description>
+
+
   <!-- Banner AH -->
 
   <SadjuukHighBannerAH.label>Royal Blue Banner</SadjuukHighBannerAH.label>
@@ -329,6 +339,16 @@
   <SadjuukHighBannerBG_Blueprint_Install.label>Red Flag (blueprint)</SadjuukHighBannerBG_Blueprint_Install.label>
   <SadjuukHighBannerBG_Frame.label>Red Flag (building)</SadjuukHighBannerBG_Frame.label>
   <SadjuukHighBannerBG_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBG_Frame.description>
+
+
+  <!-- Banner BT -->
+
+  <SadjuukHighBannerBT.label>Green Flag</SadjuukHighBannerBT.label>
+  <SadjuukHighBannerBT.description>A High Flag, marking your territory.</SadjuukHighBannerBT.description>
+  <SadjuukHighBannerBT_Blueprint.label>Green Flag (blueprint)</SadjuukHighBannerBT_Blueprint.label>
+  <SadjuukHighBannerBT_Blueprint_Install.label>Green Flag (blueprint)</SadjuukHighBannerBT_Blueprint_Install.label>
+  <SadjuukHighBannerBT_Frame.label>Green Flag (building)</SadjuukHighBannerBT_Frame.label>
+  <SadjuukHighBannerBT_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBT_Frame.description>
 
 
   <!-- Banner BH -->
