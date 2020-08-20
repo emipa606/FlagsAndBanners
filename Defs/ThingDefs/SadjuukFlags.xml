@@ -195,6 +195,50 @@
     </graphicData>
     <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAQIcon</uiIconPath>
   </ThingDef>
+  <!-- Banner AU -->
+  <ThingDef ParentName="SadjuukBannerBaseA">
+    <defName>SadjuukHighBannerAU</defName>
+    <label>Badger Banner</label>
+    <graphicData>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAU</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
+    </graphicData>
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAUIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner AV -->
+  <ThingDef ParentName="SadjuukBannerBaseA">
+    <defName>SadjuukHighBannerAV</defName>
+    <label>Snake Banner</label>
+    <graphicData>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAV</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
+    </graphicData>
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAVIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner AW -->
+  <ThingDef ParentName="SadjuukBannerBaseA">
+    <defName>SadjuukHighBannerAW</defName>
+    <label>Gryffon Banner</label>
+    <graphicData>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
+    </graphicData>
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAWIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner AX -->
+  <ThingDef ParentName="SadjuukBannerBaseA">
+    <defName>SadjuukHighBannerAX</defName>
+    <label>Raven Banner</label>
+    <graphicData>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAX</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
+    </graphicData>
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAXIcon</uiIconPath>
+  </ThingDef>
   <!-- Banner AG -->
   <ThingDef ParentName="SadjuukBannerBaseA">
     <defName>SadjuukHighBannerAG</defName>
@@ -436,6 +480,50 @@
       <drawSize>(5,5)</drawSize>
     </graphicData>
     <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBQIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner BU -->
+  <ThingDef ParentName="SadjuukBannerBaseB">
+    <defName>SadjuukHighBannerBU</defName>
+    <label>Badger Flag</label>
+    <graphicData>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBU</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
+    </graphicData>
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBUIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner BV -->
+  <ThingDef ParentName="SadjuukBannerBaseB">
+    <defName>SadjuukHighBannerBV</defName>
+    <label>Snake Flag</label>
+    <graphicData>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBV</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
+    </graphicData>
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBVIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner BW -->
+  <ThingDef ParentName="SadjuukBannerBaseB">
+    <defName>SadjuukHighBannerBW</defName>
+    <label>Gryffon Flag</label>
+    <graphicData>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
+    </graphicData>
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBWIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner BX -->
+  <ThingDef ParentName="SadjuukBannerBaseB">
+    <defName>SadjuukHighBannerBX</defName>
+    <label>Raven Flag</label>
+    <graphicData>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBX</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
+    </graphicData>
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBXIcon</uiIconPath>
   </ThingDef>
   <!-- Banner BG -->
   <ThingDef ParentName="SadjuukBannerBaseB">

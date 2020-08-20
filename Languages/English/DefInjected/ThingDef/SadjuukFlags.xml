@@ -131,6 +131,46 @@
   <SadjuukHighBannerAQ_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAQ_Frame.description>
 
 
+  <!-- Banner AU -->
+
+  <SadjuukHighBannerAU.label>Badger Banner</SadjuukHighBannerAU.label>
+  <SadjuukHighBannerAU.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAU.description>
+  <SadjuukHighBannerAU_Blueprint.label>Badger Banner (blueprint)</SadjuukHighBannerAU_Blueprint.label>
+  <SadjuukHighBannerAU_Blueprint_Install.label>Badger Banner (blueprint)</SadjuukHighBannerAU_Blueprint_Install.label>
+  <SadjuukHighBannerAU_Frame.label>Badger Banner (building)</SadjuukHighBannerAU_Frame.label>
+  <SadjuukHighBannerAU_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAU_Frame.description>
+
+
+  <!-- Banner AV -->
+
+  <SadjuukHighBannerAV.label>Snake Banner</SadjuukHighBannerAV.label>
+  <SadjuukHighBannerAV.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAV.description>
+  <SadjuukHighBannerAV_Blueprint.label>Snake Banner (blueprint)</SadjuukHighBannerAV_Blueprint.label>
+  <SadjuukHighBannerAV_Blueprint_Install.label>Snake Banner (blueprint)</SadjuukHighBannerAV_Blueprint_Install.label>
+  <SadjuukHighBannerAV_Frame.label>Snake Banner (building)</SadjuukHighBannerAV_Frame.label>
+  <SadjuukHighBannerAV_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAV_Frame.description>
+
+
+  <!-- Banner AW -->
+
+  <SadjuukHighBannerAW.label>Gryffon Banner</SadjuukHighBannerAW.label>
+  <SadjuukHighBannerAW.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAW.description>
+  <SadjuukHighBannerAW_Blueprint.label>Gryffon Banner (blueprint)</SadjuukHighBannerAW_Blueprint.label>
+  <SadjuukHighBannerAW_Blueprint_Install.label>Gryffon Banner (blueprint)</SadjuukHighBannerAW_Blueprint_Install.label>
+  <SadjuukHighBannerAW_Frame.label>Gryffon Banner (building)</SadjuukHighBannerAW_Frame.label>
+  <SadjuukHighBannerAW_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAW_Frame.description>
+
+
+  <!-- Banner AX -->
+
+  <SadjuukHighBannerAX.label>Raven Banner</SadjuukHighBannerAX.label>
+  <SadjuukHighBannerAX.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAX.description>
+  <SadjuukHighBannerAX_Blueprint.label>Raven Banner (blueprint)</SadjuukHighBannerAX_Blueprint.label>
+  <SadjuukHighBannerAX_Blueprint_Install.label>Raven Banner (blueprint)</SadjuukHighBannerAX_Blueprint_Install.label>
+  <SadjuukHighBannerAX_Frame.label>Raven Banner (building)</SadjuukHighBannerAX_Frame.label>
+  <SadjuukHighBannerAX_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAX_Frame.description>
+
+
   <!-- Banner AG -->
 
   <SadjuukHighBannerAG.label>Red Banner</SadjuukHighBannerAG.label>
@@ -329,6 +369,46 @@
   <SadjuukHighBannerBQ_Blueprint_Install.label>States Flag (blueprint)</SadjuukHighBannerBQ_Blueprint_Install.label>
   <SadjuukHighBannerBQ_Frame.label>States Flag (building)</SadjuukHighBannerBQ_Frame.label>
   <SadjuukHighBannerBQ_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBQ_Frame.description>
+
+
+  <!-- Banner BU -->
+
+  <SadjuukHighBannerBU.label>Badger Flag</SadjuukHighBannerBU.label>
+  <SadjuukHighBannerBU.description>A High Flag, marking your territory.</SadjuukHighBannerBU.description>
+  <SadjuukHighBannerBU_Blueprint.label>Badger Flag (blueprint)</SadjuukHighBannerBU_Blueprint.label>
+  <SadjuukHighBannerBU_Blueprint_Install.label>Badger Flag (blueprint)</SadjuukHighBannerBU_Blueprint_Install.label>
+  <SadjuukHighBannerBU_Frame.label>Badger Flag (building)</SadjuukHighBannerBU_Frame.label>
+  <SadjuukHighBannerBU_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBU_Frame.description>
+
+
+  <!-- Banner BV -->
+
+  <SadjuukHighBannerBV.label>Snake Flag</SadjuukHighBannerBV.label>
+  <SadjuukHighBannerBV.description>A High Flag, marking your territory.</SadjuukHighBannerBV.description>
+  <SadjuukHighBannerBV_Blueprint.label>Snake Flag (blueprint)</SadjuukHighBannerBV_Blueprint.label>
+  <SadjuukHighBannerBV_Blueprint_Install.label>Snake Flag (blueprint)</SadjuukHighBannerBV_Blueprint_Install.label>
+  <SadjuukHighBannerBV_Frame.label>Snake Flag (building)</SadjuukHighBannerBV_Frame.label>
+  <SadjuukHighBannerBV_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBV_Frame.description>
+
+
+  <!-- Banner BW -->
+
+  <SadjuukHighBannerBW.label>Gryffon Flag</SadjuukHighBannerBW.label>
+  <SadjuukHighBannerBW.description>A High Flag, marking your territory.</SadjuukHighBannerBW.description>
+  <SadjuukHighBannerBW_Blueprint.label>Gryffon Flag (blueprint)</SadjuukHighBannerBW_Blueprint.label>
+  <SadjuukHighBannerBW_Blueprint_Install.label>Gryffon Flag (blueprint)</SadjuukHighBannerBW_Blueprint_Install.label>
+  <SadjuukHighBannerBW_Frame.label>Gryffon Flag (building)</SadjuukHighBannerBW_Frame.label>
+  <SadjuukHighBannerBW_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBW_Frame.description>
+
+
+  <!-- Banner BX -->
+
+  <SadjuukHighBannerBX.label>Raven Flag</SadjuukHighBannerBX.label>
+  <SadjuukHighBannerBX.description>A High Flag, marking your territory.</SadjuukHighBannerBX.description>
+  <SadjuukHighBannerBX_Blueprint.label>Raven Flag (blueprint)</SadjuukHighBannerBX_Blueprint.label>
+  <SadjuukHighBannerBX_Blueprint_Install.label>Raven Flag (blueprint)</SadjuukHighBannerBX_Blueprint_Install.label>
+  <SadjuukHighBannerBX_Frame.label>Raven Flag (building)</SadjuukHighBannerBX_Frame.label>
+  <SadjuukHighBannerBX_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBX_Frame.description>
 
 
   <!-- Banner BG -->
