@@ -195,6 +195,17 @@
     </graphicData>
     <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAQIcon</uiIconPath>
   </ThingDef>
+  <!-- Banner AY -->
+  <ThingDef ParentName="SadjuukBannerBaseA">
+    <defName>SadjuukHighBannerAY</defName>
+    <label>Union Jack</label>
+    <graphicData>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAY</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
+    </graphicData>
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAYIcon</uiIconPath>
+  </ThingDef>
   <!-- Banner AU -->
   <ThingDef ParentName="SadjuukBannerBaseA">
     <defName>SadjuukHighBannerAU</defName>
@@ -480,6 +491,17 @@
       <drawSize>(5,5)</drawSize>
     </graphicData>
     <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBQIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner BY -->
+  <ThingDef ParentName="SadjuukBannerBaseB">
+    <defName>SadjuukHighBannerBY</defName>
+    <label>Union Jack</label>
+    <graphicData>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBY</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
+    </graphicData>
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBYIcon</uiIconPath>
   </ThingDef>
   <!-- Banner BU -->
   <ThingDef ParentName="SadjuukBannerBaseB">

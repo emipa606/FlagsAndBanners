@@ -131,6 +131,16 @@
   <SadjuukHighBannerAQ_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAQ_Frame.description>
 
 
+  <!-- Banner AY -->
+
+  <SadjuukHighBannerAY.label>Union Jack</SadjuukHighBannerAY.label>
+  <SadjuukHighBannerAY.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAY.description>
+  <SadjuukHighBannerAY_Blueprint.label>Union Jack (blueprint)</SadjuukHighBannerAY_Blueprint.label>
+  <SadjuukHighBannerAY_Blueprint_Install.label>Union Jack (blueprint)</SadjuukHighBannerAY_Blueprint_Install.label>
+  <SadjuukHighBannerAY_Frame.label>Union Jack (building)</SadjuukHighBannerAY_Frame.label>
+  <SadjuukHighBannerAY_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAY_Frame.description>
+
+
   <!-- Banner AU -->
 
   <SadjuukHighBannerAU.label>Badger Banner</SadjuukHighBannerAU.label>
@@ -369,6 +379,16 @@
   <SadjuukHighBannerBQ_Blueprint_Install.label>States Flag (blueprint)</SadjuukHighBannerBQ_Blueprint_Install.label>
   <SadjuukHighBannerBQ_Frame.label>States Flag (building)</SadjuukHighBannerBQ_Frame.label>
   <SadjuukHighBannerBQ_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBQ_Frame.description>
+
+
+  <!-- Banner BY -->
+
+  <SadjuukHighBannerBY.label>Union Jack</SadjuukHighBannerBY.label>
+  <SadjuukHighBannerBY.description>A High Flag, marking your territory.</SadjuukHighBannerBY.description>
+  <SadjuukHighBannerBY_Blueprint.label>Union Jack (blueprint)</SadjuukHighBannerBY_Blueprint.label>
+  <SadjuukHighBannerBY_Blueprint_Install.label>Union Jack (blueprint)</SadjuukHighBannerBY_Blueprint_Install.label>
+  <SadjuukHighBannerBY_Frame.label>Union Jack (building)</SadjuukHighBannerBY_Frame.label>
+  <SadjuukHighBannerBY_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBY_Frame.description>
 
 
   <!-- Banner BU -->
