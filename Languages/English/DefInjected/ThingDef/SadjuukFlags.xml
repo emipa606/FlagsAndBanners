@@ -1,564 +1,395 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Banner AA -->
-
   <SadjuukHighBannerAA.label>UNSC Banner</SadjuukHighBannerAA.label>
   <SadjuukHighBannerAA.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAA.description>
   <SadjuukHighBannerAA_Blueprint.label>UNSC Banner (blueprint)</SadjuukHighBannerAA_Blueprint.label>
   <SadjuukHighBannerAA_Blueprint_Install.label>UNSC Banner (blueprint)</SadjuukHighBannerAA_Blueprint_Install.label>
   <SadjuukHighBannerAA_Frame.label>UNSC Banner (building)</SadjuukHighBannerAA_Frame.label>
   <SadjuukHighBannerAA_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAA_Frame.description>
-
-
   <!-- Banner AB -->
-
   <SadjuukHighBannerAB.label>Gallia Banner</SadjuukHighBannerAB.label>
   <SadjuukHighBannerAB.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAB.description>
   <SadjuukHighBannerAB_Blueprint.label>Gallia Banner (blueprint)</SadjuukHighBannerAB_Blueprint.label>
   <SadjuukHighBannerAB_Blueprint_Install.label>Gallia Banner (blueprint)</SadjuukHighBannerAB_Blueprint_Install.label>
   <SadjuukHighBannerAB_Frame.label>Gallia Banner (building)</SadjuukHighBannerAB_Frame.label>
   <SadjuukHighBannerAB_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAB_Frame.description>
-
-
   <!-- Banner AR -->
-
   <SadjuukHighBannerAR.label>Lys Banner</SadjuukHighBannerAR.label>
   <SadjuukHighBannerAR.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAR.description>
   <SadjuukHighBannerAR_Blueprint.label>Lys Banner (blueprint)</SadjuukHighBannerAR_Blueprint.label>
   <SadjuukHighBannerAR_Blueprint_Install.label>Lys Banner (blueprint)</SadjuukHighBannerAR_Blueprint_Install.label>
   <SadjuukHighBannerAR_Frame.label>Lys Banner (building)</SadjuukHighBannerAR_Frame.label>
   <SadjuukHighBannerAR_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAR_Frame.description>
-
-
   <!-- Banner AC -->
-
   <SadjuukHighBannerAC.label>Imperial Banner</SadjuukHighBannerAC.label>
   <SadjuukHighBannerAC.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAC.description>
   <SadjuukHighBannerAC_Blueprint.label>Imperial Banner (blueprint)</SadjuukHighBannerAC_Blueprint.label>
   <SadjuukHighBannerAC_Blueprint_Install.label>Imperial Banner (blueprint)</SadjuukHighBannerAC_Blueprint_Install.label>
   <SadjuukHighBannerAC_Frame.label>Imperial Banner (building)</SadjuukHighBannerAC_Frame.label>
   <SadjuukHighBannerAC_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAC_Frame.description>
-
-
   <!-- Banner AD -->
-
   <SadjuukHighBannerAD.label>Diktat Banner</SadjuukHighBannerAD.label>
   <SadjuukHighBannerAD.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAD.description>
   <SadjuukHighBannerAD_Blueprint.label>Diktat Banner (blueprint)</SadjuukHighBannerAD_Blueprint.label>
   <SadjuukHighBannerAD_Blueprint_Install.label>Diktat Banner (blueprint)</SadjuukHighBannerAD_Blueprint_Install.label>
   <SadjuukHighBannerAD_Frame.label>Diktat Banner (building)</SadjuukHighBannerAD_Frame.label>
   <SadjuukHighBannerAD_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAD_Frame.description>
-
-
   <!-- Banner AE -->
-
   <SadjuukHighBannerAE.label>Bolshvev Banner</SadjuukHighBannerAE.label>
   <SadjuukHighBannerAE.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAE.description>
   <SadjuukHighBannerAE_Blueprint.label>Bolshvev Banner (blueprint)</SadjuukHighBannerAE_Blueprint.label>
   <SadjuukHighBannerAE_Blueprint_Install.label>Bolshvev Banner (blueprint)</SadjuukHighBannerAE_Blueprint_Install.label>
   <SadjuukHighBannerAE_Frame.label>Bolshvev Banner (building)</SadjuukHighBannerAE_Frame.label>
   <SadjuukHighBannerAE_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAE_Frame.description>
-
-
   <!-- Banner AF -->
-
   <SadjuukHighBannerAF.label>NOD Banner</SadjuukHighBannerAF.label>
   <SadjuukHighBannerAF.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAF.description>
   <SadjuukHighBannerAF_Blueprint.label>NOD Banner (blueprint)</SadjuukHighBannerAF_Blueprint.label>
   <SadjuukHighBannerAF_Blueprint_Install.label>NOD Banner (blueprint)</SadjuukHighBannerAF_Blueprint_Install.label>
   <SadjuukHighBannerAF_Frame.label>NOD Banner (building)</SadjuukHighBannerAF_Frame.label>
   <SadjuukHighBannerAF_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAF_Frame.description>
-
-
   <!-- Banner AO -->
-
   <SadjuukHighBannerAO.label>GDI Banner</SadjuukHighBannerAO.label>
   <SadjuukHighBannerAO.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAO.description>
   <SadjuukHighBannerAO_Blueprint.label>GDI Banner (blueprint)</SadjuukHighBannerAO_Blueprint.label>
   <SadjuukHighBannerAO_Blueprint_Install.label>GDI Banner (blueprint)</SadjuukHighBannerAO_Blueprint_Install.label>
   <SadjuukHighBannerAO_Frame.label>GDI Banner (building)</SadjuukHighBannerAO_Frame.label>
   <SadjuukHighBannerAO_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAO_Frame.description>
-
-
   <!-- Banner AM -->
-
   <SadjuukHighBannerAM.label>Templar Banner</SadjuukHighBannerAM.label>
   <SadjuukHighBannerAM.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAM.description>
   <SadjuukHighBannerAM_Blueprint.label>Templar Banner (blueprint)</SadjuukHighBannerAM_Blueprint.label>
   <SadjuukHighBannerAM_Blueprint_Install.label>Templar Banner (blueprint)</SadjuukHighBannerAM_Blueprint_Install.label>
   <SadjuukHighBannerAM_Frame.label>Templar Banner (building)</SadjuukHighBannerAM_Frame.label>
   <SadjuukHighBannerAM_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAM_Frame.description>
-
-
   <!-- Banner AS -->
-
   <SadjuukHighBannerAS.label>Cross Banner</SadjuukHighBannerAS.label>
   <SadjuukHighBannerAS.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAS.description>
   <SadjuukHighBannerAS_Blueprint.label>Cross Banner (blueprint)</SadjuukHighBannerAS_Blueprint.label>
   <SadjuukHighBannerAS_Blueprint_Install.label>Cross Banner (blueprint)</SadjuukHighBannerAS_Blueprint_Install.label>
   <SadjuukHighBannerAS_Frame.label>Cross Banner (building)</SadjuukHighBannerAS_Frame.label>
   <SadjuukHighBannerAS_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAS_Frame.description>
-
-
   <!-- Banner AN -->
-
   <SadjuukHighBannerAN.label>Lech Banner</SadjuukHighBannerAN.label>
   <SadjuukHighBannerAN.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAN.description>
   <SadjuukHighBannerAN_Blueprint.label>Lech Banner (blueprint)</SadjuukHighBannerAN_Blueprint.label>
   <SadjuukHighBannerAN_Blueprint_Install.label>Lech Banner (blueprint)</SadjuukHighBannerAN_Blueprint_Install.label>
   <SadjuukHighBannerAN_Frame.label>Lech Banner (building)</SadjuukHighBannerAN_Frame.label>
   <SadjuukHighBannerAN_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAN_Frame.description>
-
-
   <!-- Banner AP -->
-
   <SadjuukHighBannerAP.label>RUS Banner</SadjuukHighBannerAP.label>
   <SadjuukHighBannerAP.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAP.description>
   <SadjuukHighBannerAP_Blueprint.label>RUS Banner (blueprint)</SadjuukHighBannerAP_Blueprint.label>
   <SadjuukHighBannerAP_Blueprint_Install.label>RUS Banner (blueprint)</SadjuukHighBannerAP_Blueprint_Install.label>
   <SadjuukHighBannerAP_Frame.label>RUS Banner (building)</SadjuukHighBannerAP_Frame.label>
   <SadjuukHighBannerAP_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAP_Frame.description>
-
-
   <!-- Banner AQ -->
-
   <SadjuukHighBannerAQ.label>States Banner</SadjuukHighBannerAQ.label>
   <SadjuukHighBannerAQ.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAQ.description>
   <SadjuukHighBannerAQ_Blueprint.label>States Banner (blueprint)</SadjuukHighBannerAQ_Blueprint.label>
   <SadjuukHighBannerAQ_Blueprint_Install.label>States Banner (blueprint)</SadjuukHighBannerAQ_Blueprint_Install.label>
   <SadjuukHighBannerAQ_Frame.label>States Banner (building)</SadjuukHighBannerAQ_Frame.label>
   <SadjuukHighBannerAQ_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAQ_Frame.description>
-
-
   <!-- Banner AY -->
-
   <SadjuukHighBannerAY.label>Union Jack</SadjuukHighBannerAY.label>
   <SadjuukHighBannerAY.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAY.description>
   <SadjuukHighBannerAY_Blueprint.label>Union Jack (blueprint)</SadjuukHighBannerAY_Blueprint.label>
   <SadjuukHighBannerAY_Blueprint_Install.label>Union Jack (blueprint)</SadjuukHighBannerAY_Blueprint_Install.label>
   <SadjuukHighBannerAY_Frame.label>Union Jack (building)</SadjuukHighBannerAY_Frame.label>
   <SadjuukHighBannerAY_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAY_Frame.description>
-
-
   <!-- Banner AU -->
-
   <SadjuukHighBannerAU.label>Badger Banner</SadjuukHighBannerAU.label>
   <SadjuukHighBannerAU.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAU.description>
   <SadjuukHighBannerAU_Blueprint.label>Badger Banner (blueprint)</SadjuukHighBannerAU_Blueprint.label>
   <SadjuukHighBannerAU_Blueprint_Install.label>Badger Banner (blueprint)</SadjuukHighBannerAU_Blueprint_Install.label>
   <SadjuukHighBannerAU_Frame.label>Badger Banner (building)</SadjuukHighBannerAU_Frame.label>
   <SadjuukHighBannerAU_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAU_Frame.description>
-
-
   <!-- Banner AV -->
-
   <SadjuukHighBannerAV.label>Snake Banner</SadjuukHighBannerAV.label>
   <SadjuukHighBannerAV.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAV.description>
   <SadjuukHighBannerAV_Blueprint.label>Snake Banner (blueprint)</SadjuukHighBannerAV_Blueprint.label>
   <SadjuukHighBannerAV_Blueprint_Install.label>Snake Banner (blueprint)</SadjuukHighBannerAV_Blueprint_Install.label>
   <SadjuukHighBannerAV_Frame.label>Snake Banner (building)</SadjuukHighBannerAV_Frame.label>
   <SadjuukHighBannerAV_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAV_Frame.description>
-
-
   <!-- Banner AW -->
-
   <SadjuukHighBannerAW.label>Gryffon Banner</SadjuukHighBannerAW.label>
   <SadjuukHighBannerAW.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAW.description>
   <SadjuukHighBannerAW_Blueprint.label>Gryffon Banner (blueprint)</SadjuukHighBannerAW_Blueprint.label>
   <SadjuukHighBannerAW_Blueprint_Install.label>Gryffon Banner (blueprint)</SadjuukHighBannerAW_Blueprint_Install.label>
   <SadjuukHighBannerAW_Frame.label>Gryffon Banner (building)</SadjuukHighBannerAW_Frame.label>
   <SadjuukHighBannerAW_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAW_Frame.description>
-
-
   <!-- Banner AX -->
-
   <SadjuukHighBannerAX.label>Raven Banner</SadjuukHighBannerAX.label>
   <SadjuukHighBannerAX.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAX.description>
   <SadjuukHighBannerAX_Blueprint.label>Raven Banner (blueprint)</SadjuukHighBannerAX_Blueprint.label>
   <SadjuukHighBannerAX_Blueprint_Install.label>Raven Banner (blueprint)</SadjuukHighBannerAX_Blueprint_Install.label>
   <SadjuukHighBannerAX_Frame.label>Raven Banner (building)</SadjuukHighBannerAX_Frame.label>
   <SadjuukHighBannerAX_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAX_Frame.description>
-
-
   <!-- Banner AG -->
-
   <SadjuukHighBannerAG.label>Red Banner</SadjuukHighBannerAG.label>
   <SadjuukHighBannerAG.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAG.description>
   <SadjuukHighBannerAG_Blueprint.label>Red Banner (blueprint)</SadjuukHighBannerAG_Blueprint.label>
   <SadjuukHighBannerAG_Blueprint_Install.label>Red Banner (blueprint)</SadjuukHighBannerAG_Blueprint_Install.label>
   <SadjuukHighBannerAG_Frame.label>Red Banner (building)</SadjuukHighBannerAG_Frame.label>
   <SadjuukHighBannerAG_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAG_Frame.description>
-
-
   <!-- Banner AT -->
-
   <SadjuukHighBannerAT.label>Green Banner</SadjuukHighBannerAT.label>
   <SadjuukHighBannerAT.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAT.description>
   <SadjuukHighBannerAT_Blueprint.label>Green Banner (blueprint)</SadjuukHighBannerAT_Blueprint.label>
   <SadjuukHighBannerAT_Blueprint_Install.label>Green Banner (blueprint)</SadjuukHighBannerAT_Blueprint_Install.label>
   <SadjuukHighBannerAT_Frame.label>Green Banner (building)</SadjuukHighBannerAT_Frame.label>
   <SadjuukHighBannerAT_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAT_Frame.description>
-
-
   <!-- Banner AH -->
-
   <SadjuukHighBannerAH.label>Royal Blue Banner</SadjuukHighBannerAH.label>
   <SadjuukHighBannerAH.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAH.description>
   <SadjuukHighBannerAH_Blueprint.label>Royal Blue Banner (blueprint)</SadjuukHighBannerAH_Blueprint.label>
   <SadjuukHighBannerAH_Blueprint_Install.label>Royal Blue Banner (blueprint)</SadjuukHighBannerAH_Blueprint_Install.label>
   <SadjuukHighBannerAH_Frame.label>Royal Blue Banner (building)</SadjuukHighBannerAH_Frame.label>
   <SadjuukHighBannerAH_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAH_Frame.description>
-
-
   <!-- Banner AI -->
-
   <SadjuukHighBannerAI.label>Sky Blue Banner</SadjuukHighBannerAI.label>
   <SadjuukHighBannerAI.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAI.description>
   <SadjuukHighBannerAI_Blueprint.label>Sky Blue Banner (blueprint)</SadjuukHighBannerAI_Blueprint.label>
   <SadjuukHighBannerAI_Blueprint_Install.label>Sky Blue Banner (blueprint)</SadjuukHighBannerAI_Blueprint_Install.label>
   <SadjuukHighBannerAI_Frame.label>Sky Blue Banner (building)</SadjuukHighBannerAI_Frame.label>
   <SadjuukHighBannerAI_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAI_Frame.description>
-
-
   <!-- Banner AJ -->
-
   <SadjuukHighBannerAJ.label>Yellow Banner</SadjuukHighBannerAJ.label>
   <SadjuukHighBannerAJ.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAJ.description>
   <SadjuukHighBannerAJ_Blueprint.label>Yellow Banner (blueprint)</SadjuukHighBannerAJ_Blueprint.label>
   <SadjuukHighBannerAJ_Blueprint_Install.label>Yellow Banner (blueprint)</SadjuukHighBannerAJ_Blueprint_Install.label>
   <SadjuukHighBannerAJ_Frame.label>Yellow Banner (building)</SadjuukHighBannerAJ_Frame.label>
   <SadjuukHighBannerAJ_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAJ_Frame.description>
-
-
   <!-- Banner AK -->
-
   <SadjuukHighBannerAK.label>Black Banner</SadjuukHighBannerAK.label>
   <SadjuukHighBannerAK.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAK.description>
   <SadjuukHighBannerAK_Blueprint.label>Black Banner (blueprint)</SadjuukHighBannerAK_Blueprint.label>
   <SadjuukHighBannerAK_Blueprint_Install.label>Black Banner (blueprint)</SadjuukHighBannerAK_Blueprint_Install.label>
   <SadjuukHighBannerAK_Frame.label>Black Banner (building)</SadjuukHighBannerAK_Frame.label>
   <SadjuukHighBannerAK_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAK_Frame.description>
-
-
   <!-- Banner AL -->
-
   <SadjuukHighBannerAL.label>White Banner</SadjuukHighBannerAL.label>
   <SadjuukHighBannerAL.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAL.description>
   <SadjuukHighBannerAL_Blueprint.label>White Banner (blueprint)</SadjuukHighBannerAL_Blueprint.label>
   <SadjuukHighBannerAL_Blueprint_Install.label>White Banner (blueprint)</SadjuukHighBannerAL_Blueprint_Install.label>
   <SadjuukHighBannerAL_Frame.label>White Banner (building)</SadjuukHighBannerAL_Frame.label>
   <SadjuukHighBannerAL_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAL_Frame.description>
-
-
   <!-- Banner BA -->
-
   <SadjuukHighBannerBA.label>UNSC Flag</SadjuukHighBannerBA.label>
   <SadjuukHighBannerBA.description>A High Flag, marking your territory.</SadjuukHighBannerBA.description>
   <SadjuukHighBannerBA_Blueprint.label>UNSC Flag (blueprint)</SadjuukHighBannerBA_Blueprint.label>
   <SadjuukHighBannerBA_Blueprint_Install.label>UNSC Flag (blueprint)</SadjuukHighBannerBA_Blueprint_Install.label>
   <SadjuukHighBannerBA_Frame.label>UNSC Flag (building)</SadjuukHighBannerBA_Frame.label>
   <SadjuukHighBannerBA_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBA_Frame.description>
-
-
   <!-- Banner BB -->
-
   <SadjuukHighBannerBB.label>Gallia Flag</SadjuukHighBannerBB.label>
   <SadjuukHighBannerBB.description>A High Flag, marking your territory.</SadjuukHighBannerBB.description>
   <SadjuukHighBannerBB_Blueprint.label>Gallia Flag (blueprint)</SadjuukHighBannerBB_Blueprint.label>
   <SadjuukHighBannerBB_Blueprint_Install.label>Gallia Flag (blueprint)</SadjuukHighBannerBB_Blueprint_Install.label>
   <SadjuukHighBannerBB_Frame.label>Gallia Flag (building)</SadjuukHighBannerBB_Frame.label>
   <SadjuukHighBannerBB_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBB_Frame.description>
-
-
   <!-- Banner BR -->
-
   <SadjuukHighBannerBR.label>Lys Flag</SadjuukHighBannerBR.label>
   <SadjuukHighBannerBR.description>A High Flag, marking your territory.</SadjuukHighBannerBR.description>
   <SadjuukHighBannerBR_Blueprint.label>Lys Flag (blueprint)</SadjuukHighBannerBR_Blueprint.label>
   <SadjuukHighBannerBR_Blueprint_Install.label>Lys Flag (blueprint)</SadjuukHighBannerBR_Blueprint_Install.label>
   <SadjuukHighBannerBR_Frame.label>Lys Flag (building)</SadjuukHighBannerBR_Frame.label>
   <SadjuukHighBannerBR_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBR_Frame.description>
-
-
   <!-- Banner BC -->
-
   <SadjuukHighBannerBC.label>Imperial Flag</SadjuukHighBannerBC.label>
   <SadjuukHighBannerBC.description>A High Flag, marking your territory.</SadjuukHighBannerBC.description>
   <SadjuukHighBannerBC_Blueprint.label>Imperial Flag (blueprint)</SadjuukHighBannerBC_Blueprint.label>
   <SadjuukHighBannerBC_Blueprint_Install.label>Imperial Flag (blueprint)</SadjuukHighBannerBC_Blueprint_Install.label>
   <SadjuukHighBannerBC_Frame.label>Imperial Flag (building)</SadjuukHighBannerBC_Frame.label>
   <SadjuukHighBannerBC_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBC_Frame.description>
-
-
   <!-- Banner BD -->
-
   <SadjuukHighBannerBD.label>Diktat Flag</SadjuukHighBannerBD.label>
   <SadjuukHighBannerBD.description>A High Flag, marking your territory.</SadjuukHighBannerBD.description>
   <SadjuukHighBannerBD_Blueprint.label>Diktat Flag (blueprint)</SadjuukHighBannerBD_Blueprint.label>
   <SadjuukHighBannerBD_Blueprint_Install.label>Diktat Flag (blueprint)</SadjuukHighBannerBD_Blueprint_Install.label>
   <SadjuukHighBannerBD_Frame.label>Diktat Flag (building)</SadjuukHighBannerBD_Frame.label>
   <SadjuukHighBannerBD_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBD_Frame.description>
-
-
   <!-- Banner BE -->
-
   <SadjuukHighBannerBE.label>Bolshvev Flag</SadjuukHighBannerBE.label>
   <SadjuukHighBannerBE.description>A High Flag, marking your territory.</SadjuukHighBannerBE.description>
   <SadjuukHighBannerBE_Blueprint.label>Bolshvev Flag (blueprint)</SadjuukHighBannerBE_Blueprint.label>
   <SadjuukHighBannerBE_Blueprint_Install.label>Bolshvev Flag (blueprint)</SadjuukHighBannerBE_Blueprint_Install.label>
   <SadjuukHighBannerBE_Frame.label>Bolshvev Flag (building)</SadjuukHighBannerBE_Frame.label>
   <SadjuukHighBannerBE_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBE_Frame.description>
-
-
   <!-- Banner BF -->
-
   <SadjuukHighBannerBF.label>NOD Flag</SadjuukHighBannerBF.label>
   <SadjuukHighBannerBF.description>A High Flag, marking your territory.</SadjuukHighBannerBF.description>
   <SadjuukHighBannerBF_Blueprint.label>NOD Flag (blueprint)</SadjuukHighBannerBF_Blueprint.label>
   <SadjuukHighBannerBF_Blueprint_Install.label>NOD Flag (blueprint)</SadjuukHighBannerBF_Blueprint_Install.label>
   <SadjuukHighBannerBF_Frame.label>NOD Flag (building)</SadjuukHighBannerBF_Frame.label>
   <SadjuukHighBannerBF_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBF_Frame.description>
-
-
   <!-- Banner BO -->
-
   <SadjuukHighBannerBO.label>GDI Flag</SadjuukHighBannerBO.label>
   <SadjuukHighBannerBO.description>A High Flag, marking your territory.</SadjuukHighBannerBO.description>
   <SadjuukHighBannerBO_Blueprint.label>GDI Flag (blueprint)</SadjuukHighBannerBO_Blueprint.label>
   <SadjuukHighBannerBO_Blueprint_Install.label>GDI Flag (blueprint)</SadjuukHighBannerBO_Blueprint_Install.label>
   <SadjuukHighBannerBO_Frame.label>GDI Flag (building)</SadjuukHighBannerBO_Frame.label>
   <SadjuukHighBannerBO_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBO_Frame.description>
-
-
   <!-- Banner BM -->
-
   <SadjuukHighBannerBM.label>Templar Flag</SadjuukHighBannerBM.label>
   <SadjuukHighBannerBM.description>A High Flag, marking your territory.</SadjuukHighBannerBM.description>
   <SadjuukHighBannerBM_Blueprint.label>Templar Flag (blueprint)</SadjuukHighBannerBM_Blueprint.label>
   <SadjuukHighBannerBM_Blueprint_Install.label>Templar Flag (blueprint)</SadjuukHighBannerBM_Blueprint_Install.label>
   <SadjuukHighBannerBM_Frame.label>Templar Flag (building)</SadjuukHighBannerBM_Frame.label>
   <SadjuukHighBannerBM_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBM_Frame.description>
-
-
   <!-- Banner BS -->
-
   <SadjuukHighBannerBS.label>Cross Flag</SadjuukHighBannerBS.label>
   <SadjuukHighBannerBS.description>A High Flag, marking your territory.</SadjuukHighBannerBS.description>
   <SadjuukHighBannerBS_Blueprint.label>Cross Flag (blueprint)</SadjuukHighBannerBS_Blueprint.label>
   <SadjuukHighBannerBS_Blueprint_Install.label>Cross Flag (blueprint)</SadjuukHighBannerBS_Blueprint_Install.label>
   <SadjuukHighBannerBS_Frame.label>Cross Flag (building)</SadjuukHighBannerBS_Frame.label>
   <SadjuukHighBannerBS_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBS_Frame.description>
-
-
   <!-- Banner BN -->
-
   <SadjuukHighBannerBN.label>Lech Flag</SadjuukHighBannerBN.label>
   <SadjuukHighBannerBN.description>A High Flag, marking your territory.</SadjuukHighBannerBN.description>
   <SadjuukHighBannerBN_Blueprint.label>Lech Flag (blueprint)</SadjuukHighBannerBN_Blueprint.label>
   <SadjuukHighBannerBN_Blueprint_Install.label>Lech Flag (blueprint)</SadjuukHighBannerBN_Blueprint_Install.label>
   <SadjuukHighBannerBN_Frame.label>Lech Flag (building)</SadjuukHighBannerBN_Frame.label>
   <SadjuukHighBannerBN_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBN_Frame.description>
-
-
   <!-- Banner BP -->
-
   <SadjuukHighBannerBP.label>RUS Flag</SadjuukHighBannerBP.label>
   <SadjuukHighBannerBP.description>A High Flag, marking your territory.</SadjuukHighBannerBP.description>
   <SadjuukHighBannerBP_Blueprint.label>RUS Flag (blueprint)</SadjuukHighBannerBP_Blueprint.label>
   <SadjuukHighBannerBP_Blueprint_Install.label>RUS Flag (blueprint)</SadjuukHighBannerBP_Blueprint_Install.label>
   <SadjuukHighBannerBP_Frame.label>RUS Flag (building)</SadjuukHighBannerBP_Frame.label>
   <SadjuukHighBannerBP_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBP_Frame.description>
-
-
   <!-- Banner BQ -->
-
   <SadjuukHighBannerBQ.label>States Flag</SadjuukHighBannerBQ.label>
   <SadjuukHighBannerBQ.description>A High Flag, marking your territory.</SadjuukHighBannerBQ.description>
   <SadjuukHighBannerBQ_Blueprint.label>States Flag (blueprint)</SadjuukHighBannerBQ_Blueprint.label>
   <SadjuukHighBannerBQ_Blueprint_Install.label>States Flag (blueprint)</SadjuukHighBannerBQ_Blueprint_Install.label>
   <SadjuukHighBannerBQ_Frame.label>States Flag (building)</SadjuukHighBannerBQ_Frame.label>
   <SadjuukHighBannerBQ_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBQ_Frame.description>
-
-
   <!-- Banner BY -->
-
   <SadjuukHighBannerBY.label>Union Jack</SadjuukHighBannerBY.label>
   <SadjuukHighBannerBY.description>A High Flag, marking your territory.</SadjuukHighBannerBY.description>
   <SadjuukHighBannerBY_Blueprint.label>Union Jack (blueprint)</SadjuukHighBannerBY_Blueprint.label>
   <SadjuukHighBannerBY_Blueprint_Install.label>Union Jack (blueprint)</SadjuukHighBannerBY_Blueprint_Install.label>
   <SadjuukHighBannerBY_Frame.label>Union Jack (building)</SadjuukHighBannerBY_Frame.label>
   <SadjuukHighBannerBY_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBY_Frame.description>
-
-
   <!-- Banner BU -->
-
   <SadjuukHighBannerBU.label>Badger Flag</SadjuukHighBannerBU.label>
   <SadjuukHighBannerBU.description>A High Flag, marking your territory.</SadjuukHighBannerBU.description>
   <SadjuukHighBannerBU_Blueprint.label>Badger Flag (blueprint)</SadjuukHighBannerBU_Blueprint.label>
   <SadjuukHighBannerBU_Blueprint_Install.label>Badger Flag (blueprint)</SadjuukHighBannerBU_Blueprint_Install.label>
   <SadjuukHighBannerBU_Frame.label>Badger Flag (building)</SadjuukHighBannerBU_Frame.label>
   <SadjuukHighBannerBU_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBU_Frame.description>
-
-
   <!-- Banner BV -->
-
   <SadjuukHighBannerBV.label>Snake Flag</SadjuukHighBannerBV.label>
   <SadjuukHighBannerBV.description>A High Flag, marking your territory.</SadjuukHighBannerBV.description>
   <SadjuukHighBannerBV_Blueprint.label>Snake Flag (blueprint)</SadjuukHighBannerBV_Blueprint.label>
   <SadjuukHighBannerBV_Blueprint_Install.label>Snake Flag (blueprint)</SadjuukHighBannerBV_Blueprint_Install.label>
   <SadjuukHighBannerBV_Frame.label>Snake Flag (building)</SadjuukHighBannerBV_Frame.label>
   <SadjuukHighBannerBV_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBV_Frame.description>
-
-
   <!-- Banner BW -->
-
   <SadjuukHighBannerBW.label>Gryffon Flag</SadjuukHighBannerBW.label>
   <SadjuukHighBannerBW.description>A High Flag, marking your territory.</SadjuukHighBannerBW.description>
   <SadjuukHighBannerBW_Blueprint.label>Gryffon Flag (blueprint)</SadjuukHighBannerBW_Blueprint.label>
   <SadjuukHighBannerBW_Blueprint_Install.label>Gryffon Flag (blueprint)</SadjuukHighBannerBW_Blueprint_Install.label>
   <SadjuukHighBannerBW_Frame.label>Gryffon Flag (building)</SadjuukHighBannerBW_Frame.label>
   <SadjuukHighBannerBW_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBW_Frame.description>
-
-
   <!-- Banner BX -->
-
   <SadjuukHighBannerBX.label>Raven Flag</SadjuukHighBannerBX.label>
   <SadjuukHighBannerBX.description>A High Flag, marking your territory.</SadjuukHighBannerBX.description>
   <SadjuukHighBannerBX_Blueprint.label>Raven Flag (blueprint)</SadjuukHighBannerBX_Blueprint.label>
   <SadjuukHighBannerBX_Blueprint_Install.label>Raven Flag (blueprint)</SadjuukHighBannerBX_Blueprint_Install.label>
   <SadjuukHighBannerBX_Frame.label>Raven Flag (building)</SadjuukHighBannerBX_Frame.label>
   <SadjuukHighBannerBX_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBX_Frame.description>
-
-
   <!-- Banner BG -->
-
   <SadjuukHighBannerBG.label>Red Flag</SadjuukHighBannerBG.label>
   <SadjuukHighBannerBG.description>A High Flag, marking your territory.</SadjuukHighBannerBG.description>
   <SadjuukHighBannerBG_Blueprint.label>Red Flag (blueprint)</SadjuukHighBannerBG_Blueprint.label>
   <SadjuukHighBannerBG_Blueprint_Install.label>Red Flag (blueprint)</SadjuukHighBannerBG_Blueprint_Install.label>
   <SadjuukHighBannerBG_Frame.label>Red Flag (building)</SadjuukHighBannerBG_Frame.label>
   <SadjuukHighBannerBG_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBG_Frame.description>
-
-
   <!-- Banner BT -->
-
   <SadjuukHighBannerBT.label>Green Flag</SadjuukHighBannerBT.label>
   <SadjuukHighBannerBT.description>A High Flag, marking your territory.</SadjuukHighBannerBT.description>
   <SadjuukHighBannerBT_Blueprint.label>Green Flag (blueprint)</SadjuukHighBannerBT_Blueprint.label>
   <SadjuukHighBannerBT_Blueprint_Install.label>Green Flag (blueprint)</SadjuukHighBannerBT_Blueprint_Install.label>
   <SadjuukHighBannerBT_Frame.label>Green Flag (building)</SadjuukHighBannerBT_Frame.label>
   <SadjuukHighBannerBT_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBT_Frame.description>
-
-
   <!-- Banner BH -->
-
   <SadjuukHighBannerBH.label>Royal Blue Flag</SadjuukHighBannerBH.label>
   <SadjuukHighBannerBH.description>A High Flag, marking your territory.</SadjuukHighBannerBH.description>
   <SadjuukHighBannerBH_Blueprint.label>Royal Blue Flag (blueprint)</SadjuukHighBannerBH_Blueprint.label>
   <SadjuukHighBannerBH_Blueprint_Install.label>Royal Blue Flag (blueprint)</SadjuukHighBannerBH_Blueprint_Install.label>
   <SadjuukHighBannerBH_Frame.label>Royal Blue Flag (building)</SadjuukHighBannerBH_Frame.label>
   <SadjuukHighBannerBH_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBH_Frame.description>
-
-
   <!-- Banner BI -->
-
   <SadjuukHighBannerBI.label>Sky Blue Flag</SadjuukHighBannerBI.label>
   <SadjuukHighBannerBI.description>A High Flag, marking your territory.</SadjuukHighBannerBI.description>
   <SadjuukHighBannerBI_Blueprint.label>Sky Blue Flag (blueprint)</SadjuukHighBannerBI_Blueprint.label>
   <SadjuukHighBannerBI_Blueprint_Install.label>Sky Blue Flag (blueprint)</SadjuukHighBannerBI_Blueprint_Install.label>
   <SadjuukHighBannerBI_Frame.label>Sky Blue Flag (building)</SadjuukHighBannerBI_Frame.label>
   <SadjuukHighBannerBI_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBI_Frame.description>
-
-
   <!-- Banner BJ -->
-
   <SadjuukHighBannerBJ.label>Yellow Flag</SadjuukHighBannerBJ.label>
   <SadjuukHighBannerBJ.description>A High Flag, marking your territory.</SadjuukHighBannerBJ.description>
   <SadjuukHighBannerBJ_Blueprint.label>Yellow Flag (blueprint)</SadjuukHighBannerBJ_Blueprint.label>
   <SadjuukHighBannerBJ_Blueprint_Install.label>Yellow Flag (blueprint)</SadjuukHighBannerBJ_Blueprint_Install.label>
   <SadjuukHighBannerBJ_Frame.label>Yellow Flag (building)</SadjuukHighBannerBJ_Frame.label>
   <SadjuukHighBannerBJ_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBJ_Frame.description>
-
-
   <!-- Banner BK -->
-
   <SadjuukHighBannerBK.label>Black Flag</SadjuukHighBannerBK.label>
   <SadjuukHighBannerBK.description>A High Flag, marking your territory.</SadjuukHighBannerBK.description>
   <SadjuukHighBannerBK_Blueprint.label>Black Flag (blueprint)</SadjuukHighBannerBK_Blueprint.label>
   <SadjuukHighBannerBK_Blueprint_Install.label>Black Flag (blueprint)</SadjuukHighBannerBK_Blueprint_Install.label>
   <SadjuukHighBannerBK_Frame.label>Black Flag (building)</SadjuukHighBannerBK_Frame.label>
   <SadjuukHighBannerBK_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBK_Frame.description>
-
-
   <!-- Banner BL -->
-
   <SadjuukHighBannerBL.label>White Flag</SadjuukHighBannerBL.label>
   <SadjuukHighBannerBL.description>A High Flag, marking your territory.</SadjuukHighBannerBL.description>
   <SadjuukHighBannerBL_Blueprint.label>White Flag (blueprint)</SadjuukHighBannerBL_Blueprint.label>
   <SadjuukHighBannerBL_Blueprint_Install.label>White Flag (blueprint)</SadjuukHighBannerBL_Blueprint_Install.label>
   <SadjuukHighBannerBL_Frame.label>White Flag (building)</SadjuukHighBannerBL_Frame.label>
   <SadjuukHighBannerBL_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBL_Frame.description>
-
-
   <!-- Banner CA -->
-
   <SadjuukHighBannerCA.label>Fire Danger Sign</SadjuukHighBannerCA.label>
   <SadjuukHighBannerCA.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCA.description>
   <SadjuukHighBannerCA_Blueprint.label>Fire Danger Sign (blueprint)</SadjuukHighBannerCA_Blueprint.label>
   <SadjuukHighBannerCA_Blueprint_Install.label>Fire Danger Sign (blueprint)</SadjuukHighBannerCA_Blueprint_Install.label>
   <SadjuukHighBannerCA_Frame.label>Fire Danger Sign (building)</SadjuukHighBannerCA_Frame.label>
   <SadjuukHighBannerCA_Frame.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCA_Frame.description>
-
-
   <!-- Banner CB -->
-
   <SadjuukHighBannerCB.label>Death Danger Sign</SadjuukHighBannerCB.label>
   <SadjuukHighBannerCB.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCB.description>
   <SadjuukHighBannerCB_Blueprint.label>Death Danger Sign (blueprint)</SadjuukHighBannerCB_Blueprint.label>
   <SadjuukHighBannerCB_Blueprint_Install.label>Death Danger Sign (blueprint)</SadjuukHighBannerCB_Blueprint_Install.label>
   <SadjuukHighBannerCB_Frame.label>Death Danger Sign (building)</SadjuukHighBannerCB_Frame.label>
   <SadjuukHighBannerCB_Frame.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCB_Frame.description>
-
-
   <!-- Banner CC -->
-
   <SadjuukHighBannerCC.label>Radiation Warning Sign</SadjuukHighBannerCC.label>
   <SadjuukHighBannerCC.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCC.description>
   <SadjuukHighBannerCC_Blueprint.label>Radiation Warning Sign (blueprint)</SadjuukHighBannerCC_Blueprint.label>
   <SadjuukHighBannerCC_Blueprint_Install.label>Radiation Warning Sign (blueprint)</SadjuukHighBannerCC_Blueprint_Install.label>
   <SadjuukHighBannerCC_Frame.label>Radiation Warning Sign (building)</SadjuukHighBannerCC_Frame.label>
   <SadjuukHighBannerCC_Frame.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCC_Frame.description>
-
-
   <!-- Banner CD -->
-
   <SadjuukHighBannerCD.label>Biohazard Sign</SadjuukHighBannerCD.label>
   <SadjuukHighBannerCD.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCD.description>
   <SadjuukHighBannerCD_Blueprint.label>Biohazard Sign (blueprint)</SadjuukHighBannerCD_Blueprint.label>
   <SadjuukHighBannerCD_Blueprint_Install.label>Biohazard Sign (blueprint)</SadjuukHighBannerCD_Blueprint_Install.label>
   <SadjuukHighBannerCD_Frame.label>Biohazard Sign (building)</SadjuukHighBannerCD_Frame.label>
   <SadjuukHighBannerCD_Frame.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCD_Frame.description>
-
-
   <!-- Banner CE -->
-
   <SadjuukHighBannerCE.label>Electric Danger Sign</SadjuukHighBannerCE.label>
   <SadjuukHighBannerCE.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCE.description>
   <SadjuukHighBannerCE_Blueprint.label>Electric Danger Sign (blueprint)</SadjuukHighBannerCE_Blueprint.label>
   <SadjuukHighBannerCE_Blueprint_Install.label>Electric Danger Sign (blueprint)</SadjuukHighBannerCE_Blueprint_Install.label>
   <SadjuukHighBannerCE_Frame.label>Electric Danger Sign (building)</SadjuukHighBannerCE_Frame.label>
   <SadjuukHighBannerCE_Frame.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCE_Frame.description>
-
-
   <!-- Banner CF -->
-
   <SadjuukHighBannerCF.label>Forklift Warning Sign</SadjuukHighBannerCF.label>
   <SadjuukHighBannerCF.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCF.description>
   <SadjuukHighBannerCF_Blueprint.label>Forklift Warning Sign (blueprint)</SadjuukHighBannerCF_Blueprint.label>
   <SadjuukHighBannerCF_Blueprint_Install.label>Forklift Warning Sign (blueprint)</SadjuukHighBannerCF_Blueprint_Install.label>
   <SadjuukHighBannerCF_Frame.label>Forklift Warning Sign (building)</SadjuukHighBannerCF_Frame.label>
   <SadjuukHighBannerCF_Frame.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCF_Frame.description>
-
-
 </LanguageData>
