@@ -1,6 +1,6 @@
 # FlagsAndBanners
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Sadjuuks mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1564928794
@@ -13,19 +13,12 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1564928794
    Raven
    Union Jack
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+- There is also a companion mod https://steamcommunity.com/sharedfiles/filedetails/?id=2578022517]Flags and Banners (Canons Expansion) by author Canon with even more flags
 
+![Image](https://i.imgur.com/pufA0kM.png)
 
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/FlagsAndBanners]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 This is a Haku 10 request :
@@ -38,7 +31,7 @@ They need the carpet research.
 2- UN-Furniture : https://steamcommunity.com/sharedfiles/filedetails/?id=2019774854
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -48,6 +41,7 @@ They need the carpet research.
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
